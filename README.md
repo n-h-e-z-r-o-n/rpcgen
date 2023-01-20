@@ -15,3 +15,7 @@ To run above program use the following commands
    >>     gcc -o Clent client.c hezron_clnt.c hezron_xdr.c
    >>     ./Server
    >>     ./Client localhost
+
+
+i suggest you use a linux based system when testing the code 
+
